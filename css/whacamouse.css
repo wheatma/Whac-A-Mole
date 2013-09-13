@@ -1,0 +1,24 @@
+.game-area{
+    margin-top: 100px;
+    border: 1px solid #CDCDCD;
+    width: 350px;
+    height: 400px;
+}
+.mouse-hole{
+    height: 100px;
+    width: 100px;
+    border: 1px solid #CDCDCD;
+    margin-bottom: 20px;
+    cursor: url('../images/hammer_32.ico'), pointer;
+    background-image: url('../images/hole.png');
+}
+.out {
+    background-image: url('../images/shrewmouse.png');
+    background-position: 0px 0px;
+}
+.level-select{
+    width: 80px;
+}
+.div-align{
+    margin-top: 10px;
+}
