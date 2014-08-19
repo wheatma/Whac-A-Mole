@@ -1,4 +1,4 @@
 Whac-A-Mole
 ===========
 
-a Whac-A-Mole game by angularJs
+a Whac-A-Mole game powered by angularJs
