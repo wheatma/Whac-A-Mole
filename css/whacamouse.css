@@ -1,0 +1,36 @@
+.game-area{
+    margin-top: 20px;
+    border: 1px solid #CDCDCD;
+    width: 350px;
+    height: 470px;
+}
+.game-name{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.mouse-hole{
+    height: 100px;
+    width: 100px;
+    border: 1px solid #CDCDCD;
+    margin-bottom: 20px;
+    cursor: url('../images/hammer_32.ico'), pointer;
+    background-image: url('../images/hole.png');
+}
+.out {
+    background-image: url('../images/shrewmouse.png');
+    background-position: 0px 0px;
+}
+.level-select{
+    width: 80px;
+}
+.div-align{
+    margin-top: 10px;
+}
+.footer {
+    background-color: #f5f5f5;
+    border-top: 1px solid #e5e5e5;
+    color: #999;
+    margin-top: 70px;
+    padding: 30px 0;
+    text-align: center;
+}
